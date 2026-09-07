@@ -1,2 +1,10 @@
 # programming-fundamentals
-C++ programs and exercises completed while learning Programming Fundamentals
+This repository contains my C++ programs and exercises from my first semester of Data Science
+## Topics Covered
+-Inputs and Outputs
+-Variables
+-Data types
+## Language
+C++
+## Student Name
+Naima Azam
