@@ -6,6 +6,8 @@ This repository contains my C++ programs and exercises from my first semester of
 -Data types
 -Conditional Statements
 -Nested decision Structures
+-Loops 
+-1D Arrays
 ## Language
 C++
 ## Student Name
